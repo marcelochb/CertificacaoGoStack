@@ -48,6 +48,10 @@
    #### 3.2 - Instalar os Pods:
       A) Entre na pasta do mobile/ios;
       B) Execute os comando: pod install
+      
+   #### 3.3 - Configurar a variavel de conexao com o backend
+      A) Entrar na pasta mobile/src/servces
+      B) Editar o arquivo api.js e colocar o endereço do backend na variavel: baseURL
 
    #### 3.4 - Inicialize o mobile
       A) Entre na pasta do mobile;
