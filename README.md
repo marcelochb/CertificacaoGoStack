@@ -53,7 +53,9 @@
       A) Entre na pasta do mobile;
       B) Execute o comando: react-native run-ios
   
-##################################################################################
+
+
+#############################################
       
 ## Instruções para desenvolver a aplicação
 
