@@ -1,5 +1,13 @@
 # Certificação de Avaliação do Curso GoStack da Rocketseat
 
+## A Certificação foi publicada: [Meetup!](https://meetupweb.netlify.com/)
+- Back-End (Heroku com postgres | AWS S3 para upload de arquivos)
+- Front-End (Netlify)
+
+![alt text](https://github.com/marcelochb/CertificacaoGoStack/blob/master/assets/meetupWeb.png)
+
+![alt text](https://github.com/marcelochb/CertificacaoGoStack/blob/master/assets/meetupWeb1.png)
+
 ## Instruções para testar a aplicação em modo de desenvolvimento
 
 ### 1 - Backend
