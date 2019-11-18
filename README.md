@@ -8,6 +8,11 @@
 
 ![alt text](https://github.com/marcelochb/CertificacaoGoStack/blob/master/assets/meetupWeb1.png)
 
+- Mobile
+
+![alt text](https://github.com/marcelochb/CertificacaoGoStack/blob/master/assets/meetupMobile.png)
+
+
 ## Instruções para testar a aplicação em modo de desenvolvimento
 
 ### 1 - Backend
